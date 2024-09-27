@@ -1,0 +1,79 @@
+
+// Copyright (c) 2022 NetEase, Inc. All rights reserved.
+// Use of this source code is governed by a MIT license that can be
+// found in the LICENSE file.
+
+"contact"="通讯录";
+"alert_tip"="提示";
+"alert_sure"="确定";
+"alert_cancel"="取消";
+"close"="关闭";
+
+"nick"="昵称";
+"account"="账号";
+"noteName"="备注名";
+"remove_black" = "解除";
+
+"blacklist"="黑名单";
+"my_teams"="我的群聊";
+"my_ai_user"="我的数字人";
+"save"="保存";
+"input_noteName"="请输入备注名";
+"birthday"="生日";
+"phone"="手机";
+"email"="邮箱";
+"sign"="个性签名";
+"delete_friend"="删除好友";
+"delete_title"="将联系人\“%@\”删除";
+"add_friend"="添加好友";
+"add_blackList"="加入黑名单";
+"send_friend_apply"="好友申请已发送";
+"validation_message"="验证消息";
+"no_validation_message"="暂无验证消息";
+"add_request"="添加您为好友";
+"agreed_request"="同意了你的好友请求";
+"refused_request"="拒绝了你的好友请求";
+"clear"="清空";
+"agreed"="已同意";
+"refused"="已拒绝";
+"expired"="已过期";
+"refuse"="拒绝";
+"agree"="同意";
+"select"="选择";
+"select_contact"="请选择联系人";
+"user_not_exist"="该用户不存在";
+"team_not_exist"="该群不存在";
+"no_friend"="暂无好友";
+"no_ai_user"="暂无数字人";
+"session_empty"="暂无会话";
+"team_empty"="暂无群组";
+"chat"="聊天";
+"message_remind"="消息提醒";
+"clear_all_validate_message"="是否要清除所有验证消息？";
+"sure_delte_friend"="是否确定删除好友？";
+"input_userId"="请输入账号";
+"space_not_support"="不支持全空格";
+
+
+"let_us_chat"="我已经同意了你的申请，现在开始聊天吧~";
+
+// 转发多选
+"recent_forward"="最近转发";
+"recent_session"="最近会话";
+"my_friends"="我的好友";
+"selected"="已选";
+"multi_select"="多选";
+"single_select"="单选";
+"choose_one_chat"="选择一个聊天";
+"exceeded_limit"="超出%d人限制";
+"choose_max_limit"="最多只能选择%d个会话";
+
+// error toast
+"validate_processed"="该验证消息已在其他端处理";
+"failed_operation"="操作失败";
+"network_error"="当前网络不可用，请检查你的网络设置";
+
+"black_tip"="   你不会收到列表中任何联系人的消息";
+
+"contact_friend"="好友";
+"contact_ai_user"="数字人";
